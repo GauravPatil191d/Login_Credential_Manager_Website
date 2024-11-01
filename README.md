@@ -57,3 +57,5 @@ Note: This is a one-way operation. Once you eject, you can't go back! If you are
 To learn more, check out the Create React App documentation.
 
 To learn React, check out the React documentation.
+
+A typescript file is also avaliable if anyone wants to write the whole code in typescript language!
